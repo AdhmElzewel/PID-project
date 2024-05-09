@@ -21,6 +21,8 @@ air inside the room, as we mentioned earlier, as it is tightly closed.
 
 ![image](https://github.com/AdhmElzewel/PID-project/assets/108629950/fd20c9d6-b817-4bfe-8377-6e01815e46c8)
 
+video1 link : https://youtu.be/3Q4mrH6MNYs?si=YhUBrCOdq6jb6wqT
+video2 link : https://youtube.com/shorts/wJK4ylzQob8?si=deJBKJgEEbZrdgOL
 ## The components which were used
 1. The Arduino Uno:
  The Arduino Uno is an open-source microcontroller board based on the Microchip 
